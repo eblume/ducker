@@ -18,7 +18,7 @@ Getting Started
 
 - Make a virtualenv with python3
 - `pip install -r requirements.txt`
-- Run tests with `nostests tests.tests`
+- Run tests with `nosetests tests.tests`
 
 Pull requests welcome. Join #ducker on freenode. Check the docs folder
 for more.
